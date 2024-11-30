@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using EpicGames.Core;
 using UnrealBuildTool;
 using UnrealBuildBase;
-
+using namespace std;
 namespace AutomationTool.Benchmark
 {
 	
